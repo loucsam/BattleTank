@@ -1,6 +1,7 @@
 
 
 Essentially you need to be able to
+-need tank models (see the marketplace)
 -drive around a landscape
 -be limited to the landscape, and not fall through :)
 -turn, go forward and backward
@@ -24,6 +25,7 @@ Essentially you need to be able to
 -save/load
 -kill count
 -health gauge
+-goal, end game , time limit, hit limit , death etc
 
 
 Some ideas floating around in my head:
