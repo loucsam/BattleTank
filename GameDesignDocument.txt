@@ -1,0 +1,32 @@
+
+
+Essentially you need to be able to
+-drive around a landscape
+-be limited to the landscape, and not fall through :)
+-turn, go forward and backward
+-raise and lower turret
+-rotate upper section
+-shoot and reload
+-hit an enemy
+-knock out/kill an enemy
+-see chains moving, wheels rotating
+-explosion effects
+-release of smoke to disguise position
+-possibly night time headlights
+-have realistic sounds including:
+--tracks squeaking, wheels turning
+--turret firing
+--enemy or self being hit
+--projectile through air noise, near miss whistle
+--projectile hitting ground, or objects
+--scream of person
+-menu system
+-save/load
+-kill count
+-health gauge
+
+
+Some ideas floating around in my head:
+Fuel Tank/Electro Tank/Solar Tank
+--Your tank also runs out of energy, and needs the fuel source to be refilled
+--Sounds can change according to fuel supply
