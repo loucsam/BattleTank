@@ -80,3 +80,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Not the starter content, too large
+Content/StarterContent/*
+# Not the free materials content, too large
+Content/GTFreeMaterials/*
+
+
+
